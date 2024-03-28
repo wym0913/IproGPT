@@ -1,6 +1,6 @@
-![Banner](https://user-images.githubusercontent.com/1998168/235366625-e615e68d-592c-4f18-9c9f-1e5cd1778557.png)
 
-# Anse
+
+
 
 English | [简体中文](./README.zh-CN.md) | [日本語](./README_JA-JP.md)
 
