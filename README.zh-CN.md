@@ -1,14 +1,6 @@
-![Banner](https://user-images.githubusercontent.com/1998168/235366625-e615e68d-592c-4f18-9c9f-1e5cd1778557.png)
 
-# Anse
 
-[English](./README.md) | 简体中文 | [日本語](./README_JA-JP.md)
-
-Anse 是一个极致优化的 AI 聊天 UI.
-
-- 🍿 **在线预览**: https://anse.app
-- 📖 **文档地址**: https://docs.anse.app
-- ✨ **版本日志**: https://github.com/anse-app/anse/releases
+IproGPT 是一个极致优化的 AI 聊天 UI.
 
 ## 功能
 
